@@ -6,3 +6,11 @@ C:\Users\ALUMNO\Documents\Wendy\Lab1progra\Lab1progra\obj\Debug\Lab1progra.cspro
 C:\Users\ALUMNO\Documents\Wendy\Lab1progra\Lab1progra\obj\Debug\Lab1progra.csproj.CoreCompileInputs.cache
 C:\Users\ALUMNO\Documents\Wendy\Lab1progra\Lab1progra\obj\Debug\Lab1progra.exe
 C:\Users\ALUMNO\Documents\Wendy\Lab1progra\Lab1progra\obj\Debug\Lab1progra.pdb
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\bin\Debug\Lab1progra.exe.config
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\bin\Debug\Lab1progra.exe
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\bin\Debug\Lab1progra.pdb
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\obj\Debug\Lab1progra.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\obj\Debug\Lab1progra.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\obj\Debug\Lab1progra.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\obj\Debug\Lab1progra.exe
+C:\Users\cance\OneDrive\Documentos\GitHub\Laboratorio1PrograIII\Lab1progra\Lab1progra\obj\Debug\Lab1progra.pdb
